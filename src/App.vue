@@ -13,4 +13,9 @@
 body::-webkit-scrollbar{
   // display: none;
 }
+.fcc{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 </style>
